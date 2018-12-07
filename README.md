@@ -1,6 +1,7 @@
 # Screenshot
 <div align="center">
-    <img src="/images/img1.png" width="333px" height="600px" </img> 
+    <img src="/images/img1.png" width="333px" height="600px" </img>
+    <br/>
     <img src="/images/img2.png" width="333px" height="600px" </img> 
 </div>
 
