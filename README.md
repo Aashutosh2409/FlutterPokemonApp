@@ -1,12 +1,12 @@
+# poke_app
+
+A new Flutter project.
+
 # Screenshots
 <div align="justify & center">
     <img src="/images/img1.png" width="333px" height="500px" </img>
     <img src="/images/img2.png" width="333px" height="500px" </img> 
 </div>
-
-# poke_app
-
-A new Flutter project.
 
 ## Getting Started
 
