@@ -1,8 +1,9 @@
-# Screen-1
+# Screenshots
+## Screen-1
 <div align="center">
     <img src="/images/img1.png" width="333px" height="500px" </img>
 </div>
-# Screen-2
+## Screen-2
 <div align="center">
     <img src="/images/img2.png" width="333px" height="500px" </img> 
 </div>
