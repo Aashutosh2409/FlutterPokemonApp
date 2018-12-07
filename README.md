@@ -1,5 +1,5 @@
 # Screenshots
-<div align="justify">
+<div align="justify-content">
     <img src="/images/img1.png" width="333px" height="500px" </img>
     <img src="/images/img2.png" width="333px" height="500px" </img> 
 </div>
