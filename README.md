@@ -1,9 +1,6 @@
 # Screenshots
-<div align="center">
+<div align="justify">
     <img src="/images/img1.png" width="333px" height="500px" </img>
-</div>
-<br/>
-<div align="center">
     <img src="/images/img2.png" width="333px" height="500px" </img> 
 </div>
 
