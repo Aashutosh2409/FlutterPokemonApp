@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+<div align="center">
+    <img src="/images/img1.png" width="333px" height="500px" </img>
+    <br/>
+    <img src="/images/img2.png" width="333px" height="500px" </img> 
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
