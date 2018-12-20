@@ -17,6 +17,7 @@ class PokeDetails extends StatelessWidget {
         top:MediaQuery.of(context).size.height*0.1,
 
         child: Card(
+          color: const Color(0xff888888),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(15.0)
           ),
@@ -80,10 +81,10 @@ class PokeDetails extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return Scaffold(
-      backgroundColor: Colors.cyan,
+      backgroundColor: Colors.black,
     appBar:AppBar(
       centerTitle:true,
-      backgroundColor: Colors.cyan,
+      backgroundColor: Colors.black,
       title: Text(pokemon.name),
       elevation: 0.0,
     ),
